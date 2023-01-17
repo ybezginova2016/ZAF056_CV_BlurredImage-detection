@@ -17,4 +17,4 @@ The dataset consists of images, and some of them are blurred. The images are blu
 - http://graphics.im.ntu.edu.tw/docs/mmm08.pdf
 - Alireza Golestaneh, S., & Karam, L. J. (2017). Spatially-varying blur detection based on multiscale fused and sorted transform coefficients of gradient magnitudes. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 5800-5809).
 
-### Project team: Ruba, Jay, Yulia
+### Project team: ***Ruba, Jay, Yulia***
