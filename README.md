@@ -17,7 +17,7 @@ There are two approaches, which can be applied to solving a classification probl
 - 1) To construct a convolutional neural network, train and test it on unseen given test sample. The quality metric is 'accuracy'; the overfitting problem is to be considered.
 - 2) To use  Laplacian or Fourier algorithms to construct the algorithm for interating through the dataset and detecting the blurred images by a advised threshold from the researches (Liu, 2008; Hsu, 2008, Su et al., 2011).
 
-### Final project output: ***a .csv file with predictions for a test (unseen) data.***
+#### Final project output: ***a .csv file with predictions for a test (unseen) data.***
 
 ### Project Team: _Ruba, Yulia_
 
