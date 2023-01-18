@@ -19,7 +19,7 @@ There are two approaches, which can be applied to solving a classification probl
 
 #### Final project output: ***a .csv file with predictions for a test (unseen) data.***
 
-### Project Team: _Ruba, Yulia_
+### Project Team: _Ruba, Yulia, Dharmaraj, Jay_
 
 ### Papers:
 - [Hsu, P., & Chen, B. Y. (2008, January). Blurred image detection and classification. In International conference on multimedia modeling (pp. 277-286). Springer, Berlin, Heidelberg.](https://jiaya.me/all_final_papers/blur_detect_cvpr08.pdf)
