@@ -19,6 +19,9 @@ There are two approaches, which can be applied to solving a classification probl
 
 #### Final project output: ***.csv file with predictions for a test (unseen) data for both algorithms.***
 
+### Data
+Dataset can be found [here](https://drive.google.com/drive/folders/1CWsLeFXwthxo7n5j6CYZlW_cS9X0oFVP?usp=share_link).
+
 ### Project Team: _Ruba, Yulia, Dharmaraj, Jay_
 
 ### Papers:
