@@ -1,4 +1,5 @@
-# (2) CV WINTER 2023 - Blurred Image Detection via Supervised Learning Using Different Approaches
+# ZAF056_CV_BlurredImage-detection
+
 
 ### Project Description
 There is a dataset of images, par of which is blurred. The task is to develop a machine learning algorithm to detect whether the image is blurred or sharp on the unknown dataset.
